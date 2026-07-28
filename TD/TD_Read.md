@@ -1,6 +1,7 @@
 7X7 크기의 격자 공간에서 수행합니다.
 
-image
+<img width="1404" height="1452" alt="image" src="https://github.com/user-attachments/assets/9f74cfee-9a37-4af9-bfe3-270944180467" />
+
 다음은 실제 환경입니다.
 
 빨간 네모는 에이전트,
